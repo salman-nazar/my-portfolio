@@ -5,7 +5,7 @@ export const certifications: Certification[] = [
     title: "C O R E",
     issuer: "Hackviser",
     date: "2026",
-    credentialUrl: "/certificates/hackviser.pdf",
+    credentialUrl: "/certificates/Hackviser.pdf",
   },
   {
     title: "Ethically Hack The Planet",
